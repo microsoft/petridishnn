@@ -43,11 +43,11 @@ Please refer to the header of each linked file for usage.
 
 ## Contacts:
 
-1. Debadeepta Dey (dedey@microsoft.com)
-2. Hanzhang Hu (hanzhang@cs.cmu.edu)
-3. John Langford (jcl@microsoft.com)
-4. Rich Caruana (rcaruana@microsoft.com)
-5. Eric Horvitz (horvitz@microsoft.com)
+* Debadeepta Dey (dedey@microsoft.com)
+* Hanzhang Hu (hanzhang@cs.cmu.edu)
+* John Langford (jcl@microsoft.com)
+* Rich Caruana (rcaruana@microsoft.com)
+* Eric Horvitz (horvitz@microsoft.com)
 
 # Conduct and Privacy
 Petridishnn has adopted the Microsoft [Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information on this code of conduct, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments. Read Microsoft’s statement on [Privacy & Cookies](https://privacy.microsoft.com/en-us/privacystatement/)
