@@ -1,7 +1,7 @@
 # Project Petridish: Efficient Forward Architecture Search
 Code for Efficient Forward Neural Architecture Search. 
 
-# Conduct and Privacy
+## Conduct and Privacy
 Petridishnn has adopted the Microsoft [Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information on this code of conduct, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments. Read Microsoft’s statement on [Privacy & Cookies](https://privacy.microsoft.com/en-us/privacystatement/)
 
 # Installation on development machine
@@ -52,3 +52,5 @@ Please refer to the header of each linked file for usage.
 * Rich Caruana (rcaruana@microsoft.com)
 * Eric Horvitz (horvitz@microsoft.com)
 
+## Contributing
+Please read the contributing [policy](./CONTRIBUTING.md) 
