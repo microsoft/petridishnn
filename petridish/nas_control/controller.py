@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 Controller holds constants regarding how the exploration/exploitation is done.
 It also contains the logics of these actions.

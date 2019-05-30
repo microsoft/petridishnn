@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 This script inspects a log.log file of a search in order
 to extract the model architecture files for final training.

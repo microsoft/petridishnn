@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import tensorflow as tf
 from tensorpack.tfutils.tower import get_current_tower_context
 from tensorpack.tfutils.common import get_global_step_var

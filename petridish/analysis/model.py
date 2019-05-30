@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 This script is gathers information about a model training run using
 the log file of the run (or the saved stdout of the run).

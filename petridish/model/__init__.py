@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 from petridish.model.feedforward import (
     PetridishBaseCell, PetridishModel, RecognitionModel, MLPModel
 )

@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 # This file contains everything that is
 from petridish.info.layer_info import LayerInfo, LayerTypes, LayerInfoList
 from petridish.info.net_info import (

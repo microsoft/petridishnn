@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 from petridish.data.ptb.ptb_tf import (
     _read_words, _build_vocab, _file_to_word_ids
 )

@@ -1,3 +1,5 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
 
 import numpy as np
 import scipy.io.arff as arff

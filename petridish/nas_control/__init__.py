@@ -1,4 +1,7 @@
-# This module contains logics of NAS, which includes
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
+# This module contains logic of NAS, which includes
 # 1. the choice of parent models to expand
 # 2. the choice of children/hallu models to train.
 # There were plan to make critics to learn to select them

@@ -1,3 +1,7 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
+
 import numpy as np
 
 def online_sampling(x_gen, k):

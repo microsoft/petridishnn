@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 # This module contains the python script entries of the petridish.
 # 1. the server handles search logics such as which to expand,
 # and which to train and evaluate. The critic for evaluating models

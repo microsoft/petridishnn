@@ -1,3 +1,7 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
+
 """
 This script generate a training script given
 a net_info stored in a single line in a text file,
