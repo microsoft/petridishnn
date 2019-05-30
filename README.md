@@ -42,7 +42,7 @@ Please refer to the header of each linked file for usage.
 
 1. [Inspect the search log](./petridish/analysis/search.py)
 2. [Generate scripts to train found models](./petridish/cust_exps_gen/generate_train_script.py)
-3. [Check Performance of model training](./petridish/analysis/model.py)
+3. [Check performance of model training](./petridish/analysis/model.py)
 
 ## Contacts:
 
