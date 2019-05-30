@@ -41,15 +41,13 @@ Please refer to the header of each linked file for usage.
 2. [Generate scripts to train found models](./petridish/cust_exps_gen/generate_train_script.py)
 3. [Check Performance of model training](./petridish/analysis/model.py)
 
-Contacts:
+## Contacts:
 
-Debadeepta Dey (dedey@microsoft.com)
+* Debadeepta Dey (dedey@microsoft.com)
+* Hanzhang Hu (hanzhang@cs.cmu.edu)
+* John Langford (jcl@microsoft.com)
+* Rich Caruana (rcaruana@microsoft.com)
+* Eric Horvitz (horvitz@microsoft.com)
 
-Hanzhang Hu (hanzhang@cs.cmu.edu)
-
-John Langford (jcl@microsoft.com)
-
-Rich Caruana (rcaruana@microsoft.com)
-
-Eric Horvitz (horvitz@microsoft.com)
-
+# Conduct and Privacy
+Petridishnn has adopted the Microsoft [Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information on this code of conduct, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments. Read Microsoft’s statement on [Privacy & Cookies](https://privacy.microsoft.com/en-us/privacystatement/)
