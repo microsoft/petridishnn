@@ -52,7 +52,19 @@ Please refer to the header of each linked file for usage.
 * Hanzhang Hu (hanzhang@cs.cmu.edu)
 * John Langford (jcl@microsoft.com)
 * Rich Caruana (rcaruana@microsoft.com)
+* Saurajit Mukherjee (saurajim@microsoft.com)
 * Eric Horvitz (horvitz@microsoft.com)
 
 ## Contributing
 Please read the contributing [policy](./CONTRIBUTING.md) 
+
+## Bibtex
+If you would like to use this work for your research, please cite the following:
+```
+@article{hu2019forwardnas,
+  title={Efficient Forward Architecture Search},
+  author={Hangzhang Hu and John Langford and Rich Caruana and Saurajit Mukherjee and Eric Horvitz and Debadeepta Dey},
+  journal={arXiv preprint arXiv:1905.xxxxx},
+  year={2019}
+}
+```
