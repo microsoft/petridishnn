@@ -52,7 +52,6 @@ Please refer to the header of each linked file for usage.
 * Hanzhang Hu (hanzhang@cs.cmu.edu)
 * John Langford (jcl@microsoft.com)
 * Rich Caruana (rcaruana@microsoft.com)
-* Saurajit Mukherjee (saurajim@microsoft.com)
 * Eric Horvitz (horvitz@microsoft.com)
 
 ## Contributing
