@@ -1,5 +1,5 @@
 # Project Petridish: Efficient Forward Architecture Search
-Code for [Efficient Forward Neural Architecture Search](https://arxiv.org). 
+Code for [Efficient Forward Neural Architecture Search](https://arxiv.org/abs/1905.13360). 
 
 *Note this repo is under active development and the code base is expected to rapidly change.*
 
@@ -64,7 +64,7 @@ If you would like to use this work for your research, please cite the following:
 @article{hu2019forwardnas,
   title={Efficient Forward Architecture Search},
   author={Hanzhang Hu and John Langford and Rich Caruana and Saurajit Mukherjee and Eric Horvitz and Debadeepta Dey},
-  journal={arXiv preprint arXiv:1905.xxxxx},
+  journal={arXiv preprint arXiv:1905.13360},
   year={2019}
 }
 ```
