@@ -63,7 +63,7 @@ If you would like to use this work for your research, please cite the following:
 @article{hu2019forwardnas,
   title={Efficient Forward Architecture Search},
   author={Hanzhang Hu and John Langford and Rich Caruana and Saurajit Mukherjee and Eric Horvitz and Debadeepta Dey},
-  journal={arXiv preprint arXiv:1905.13360},
+  journal={Neural Information Processing Systems},
   year={2019}
 }
 ```
