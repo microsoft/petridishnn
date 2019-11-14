@@ -2,6 +2,7 @@
 Code for [Efficient Forward Neural Architecture Search](https://arxiv.org/abs/1905.13360). 
 
 *Note this repo is under active development and the code base is expected to rapidly change.*
+*We are currently rewriting Petridish in Pytorch with evaluation on many more datasets and pretrained models. It will appear here shortly.*
 
 ## Conduct and Privacy
 Petridishnn has adopted the Microsoft [Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information on this code of conduct, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments. Read Microsoft’s statement on [Privacy & Cookies](https://privacy.microsoft.com/en-us/privacystatement/)
