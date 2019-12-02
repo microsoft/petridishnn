@@ -1,5 +1,5 @@
 # Project Petridish: Efficient Forward Architecture Search
-Code for [Efficient Forward Neural Architecture Search](https://arxiv.org/abs/1905.13360). 
+Code for [Efficient Forward Neural Architecture Search](https://arxiv.org/abs/1905.13360) appearing at Neurips 2019!
 
 *Note this repo is under active development and the code base is expected to rapidly change.*
 *We are currently rewriting Petridish in Pytorch with evaluation on many more datasets and pretrained models. It will appear here shortly.*
