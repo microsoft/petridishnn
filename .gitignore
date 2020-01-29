@@ -8,5 +8,4 @@ stdout.txt
 val_err.txt
 .vscode*
 
-scripts/*
 commit_msg.txt
